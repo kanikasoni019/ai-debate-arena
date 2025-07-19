@@ -25,12 +25,6 @@ The idea was to combine AI with public speaking and critical thinking—skills t
 - **AI**: OpenAI/GPT-style logic (mock or actual integration)
 - **Deployment**: Vercel or Render (configurable)
 
----
 
- 🚀 How to Run Locally
 
-```bash
-git clone https://github.com/<your-username>/ai-debate-arena.git
-cd ai-debate-arena
-pip install -r requirements.txt
-python app.py
+ 
